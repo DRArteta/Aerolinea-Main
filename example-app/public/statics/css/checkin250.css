@@ -1,0 +1,87 @@
+
+body{
+    background-color:  ghostwhite;
+}
+
+h1.titulo1{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    padding-left: 140px;
+    color: black;
+}
+
+div.xd {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+div.csilla {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h5.silla{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+div.fondoCielo{
+    background: url(/statics/img/cielo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+
+i.primera{
+    color: blue;
+}
+
+i.economica{
+    color: green;
+}
+
+.imgP{ /*punta del avion*/
+    border-radius: 400px 400px 5px 5px;
+    margin: 0 auto;
+
+}
+div.pdin{
+    padding: 0;
+}
+
+.b2 {
+    color:red;
+    padding: 0;
+}
+
+.xd {
+    color: black;
+    padding: auto;
+}
+
+div.mgin{
+    margin-bottom: 2px;
+    margin-right: 3px;
+}
+div.mgin2{
+    margin-bottom: 2px;
+    margin-right: 3px;
+}
+
+div.img1{
+    margin-left: 10px;
+}
+div.img2{
+    margin-left: 25px;
+}
+
+div.letra1{
+    margin-left: 15px;
+}
+
+div.num1{
+    margin-left: 15px;
+}
+div.num{
+    margin-left: 10px;
+}

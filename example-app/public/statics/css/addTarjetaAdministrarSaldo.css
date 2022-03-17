@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+}
+
+.primeraFila{
+    /*background-color: whitesmoke;*/
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+
+}
+
+.segundaFila{
+    /*background-color: whitesmoke;*/
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+}
+
+.terceraFila{
+    /*background-color: whitesmoke;*/
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+/*.btn-outline-danger{
+    border: none;
+} */
+
+.seccionTitulo{
+    margin-top: 10px;
+}
+.seccionBotones{
+    margin-top: 16px;
+    padding: 20xp;
+}
+
+.col-sm-8{
+    margin: auto;
+}
+.basura{
+    margin:auto;
+}
+.wallet{
+    font-size: large;
+}

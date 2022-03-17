@@ -1,0 +1,36 @@
+body{
+  background: url(/statics/img/avion.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+div{
+   margin-bottom:20px;
+}
+
+
+.main-section{
+  margin: 0 auto;
+  margin-top: 25%;
+  padding: 0;
+}
+
+.modal-content{
+  background-color: #3b4652;
+  opacity: .82  ;
+  padding: 0 20px;
+}
+
+.user-img{
+  margin-top: -50px;
+}
+
+.user-img img{
+  width:100px;
+  height: 100px;
+}
+.label{
+  opacity:1;
+  color: white;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}

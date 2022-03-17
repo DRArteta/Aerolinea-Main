@@ -1,0 +1,31 @@
+
+.searchUser{
+    padding: 40px 0px 0px 250px;
+    background: rgb(245, 245, 245);
+    padding-bottom: 40px;
+}
+.buttonSearch{
+    padding-top:70px;
+    padding-left: 50px;
+    
+}
+#background {
+    background: url("/statics/img/banner.png");
+    background-position: center;
+    background-size: cover;
+    height: 225px; width: 100%;
+    margin: 5px;
+    border-radius: 10%;
+  }
+  
+  @media (min-width: 480px) {
+      #background { height: 300px; }
+  }
+  
+  @media (min-width: 768px) {
+      #background { height: 150px; }
+  }
+  
+  @media (min-width: 992px) {
+      #background { height: 300px; }
+  }
